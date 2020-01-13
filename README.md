@@ -7,8 +7,8 @@ TODO DESCRIPTION:
 
 1. Docker
 
-    + [Windows] (https://docs.docker.com/docker-for-windows/install/)
-    + [Mac] (https://download.docker.com/mac/stable/Docker.dmg)
+    + [Windows](https://docs.docker.com/docker-for-windows/install/)
+    + [Mac](https://download.docker.com/mac/stable/Docker.dmg)
 
 
 3. [Apache Drill] (https://drill.apache.org/docs/running-drill-on-docker/) - incredibly useful for manipulating and querying data locally.
