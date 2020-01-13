@@ -11,7 +11,7 @@ TODO DESCRIPTION:
     + [Mac](https://download.docker.com/mac/stable/Docker.dmg)
 
 
-3. [Apache Drill] (https://drill.apache.org/docs/running-drill-on-docker/) - incredibly useful for manipulating and querying data locally.
+3. [Apache Drill](https://drill.apache.org/docs/running-drill-on-docker/) - incredibly useful for manipulating and querying data locally.
 
 ### Up & Running
 
