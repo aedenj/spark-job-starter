@@ -9,5 +9,6 @@ object StarterSparkJob {
       .appName("Starter Spark Job")
       .getOrCreate()
 
+      println("Hello World")
   }
 }
